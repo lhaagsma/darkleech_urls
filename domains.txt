@@ -34,7 +34,6 @@
 2014-02-10.00:36 - 69.64.39.166 - mxlylcc.myftp.org
 2014-02-10.00:49 - 69.64.39.166 - kxiwqklxd.myftp.org
 2014-02-10.00:53 - 69.64.39.166 - ezaarujnlk.myftp.org
-2014-02-10.00:53 - 69.64.39.166 - ezaarujnlk.myftp.org
 2014-02-10.01:00 - 69.64.39.166 - majaxrcx.myftp.org
 2014-02-10.01:11 - 69.64.39.166 - nmhbwcf.myftp.org
 2014-02-10.01:16 - 69.64.39.166 - yevlvki.myftp.biz
@@ -128,6 +127,5 @@
 2014-02-10.13:18 - 69.64.39.166 - rwfqoh.serveftp.com
 2014-02-10.13:21 - 69.64.39.166 - ejnbvk.serveftp.com
 2014-02-10.13:30 - 69.64.39.166 - gpazesyrjj.serveftp.com
-2014-02-10.13:43 - 69.64.39.166 - ymfzsyhz.myftp.org
 2014-02-10.13:43 - 69.64.39.166 - ymfzsyhz.myftp.org
 2014-02-10.13:47 - 69.64.39.166 - wjuoywrf.myftp.biz
